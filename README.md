@@ -3,7 +3,7 @@
 
 ## About:
 
-This is simple Java program represents the coffee machine.
+This is a simple Java program represents the coffee machine.
 
 
 ## Description:
