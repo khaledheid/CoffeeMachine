@@ -24,4 +24,4 @@ How can the method determine what that input is?
 ## Solution:
 
 Store the current state of the machine. every time the user inputs something and a program passes that line to the method, the program determines how to interpret this line using the information about the current state.
-The most efficient way of handling states is using an enum with all predefined states.
+The most efficient way of handling states is using an enum with all predefined states. 
